@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+/*start main*/
+main span{
+    color: gray;
+}
+
+main{
+    padding: 10px;
+    font-style: italic;
+}
+main h1{
+    color: black;
+    font-size: 60px;
+}
+/*end main*/
+/*start navigation*/
+.button1{
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    background-color: gray;
+    justify-content: space-around;
+    
+}
+.search{
+    padding: 5px;
+    padding-left: 660px;
+}
+/*end navigation*/
+/*start hideline*/
+.hideline{
+    text-decoration: underline;
+    padding: 15px;
+}
+.extraction{
+    padding: 5px;
+    font-size: 27px;
+    background-color: #EEE;
+}
+.vegptation{
+    padding: 5px;
+    font-size: 27px;
+    background-color: #EEE;
+}
+/*end hideline*/
+/*start images*/
+.space{
+    padding: 20px;
+}
+.extract{
+    background-image: url(../images/Extraction.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 700px;
+    width: 1170px;
+    margin: auto;
+}
+/*end images*/
+/*star invest us*/
+.investus{
+    padding-left: 700px;
+}
+/*end invest us*/
+/*start images*/
+.space{
+    padding: 20px;
+}
+.vegpt{
+    background-image: url(../images/Vegitation.jfif);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 700px;
+    width: 1170px;
+    margin: auto;
+}
+/*end images*/
+/*start footer*/
+.footer{
+    background-color: gray;
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+/*end footer*/

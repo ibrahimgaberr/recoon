@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+/*start main*/
+main span{
+    color: gray;
+}
+
+main{
+    padding: 10px;
+    font-style: italic;
+}
+main h1{
+    color: black;
+    font-size: 60px;
+}
+/*end main*/
+/*start navigation*/
+.button1{
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    background-color: gray;
+    justify-content: space-around;
+    
+}
+.search{
+    padding: 5px;
+    padding-left: 660px;
+}
+/*end navigation*/
+/*start hideline*/
+.hideline{
+    text-decoration: underline;
+    padding: 15px;
+}
+/*end hideline*/
+/*start images*/
+.container{
+    padding: 5px;
+}
+/*end images*/
+/*start sources*/
+.sources{
+    background-color: gray;
+    margin: 15px;
+}
+.sources ul li a{
+    color: black;
+}
+/*end sources*/

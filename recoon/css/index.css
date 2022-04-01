@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+.clearfix{clear: both;}
+/*start main*/
+ main h1{
+    padding: 10px;
+    font-size: 60px;
+    font-style: italic;
+}
+h1 span{
+    color: gray;
+}
+/*end main*/
+/*start navigation*/
+.button1{
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    background-color: gray;
+    justify-content: space-around;
+    
+}
+.search{
+    padding: 5px;
+    padding-left: 650px;
+}
+/*end navigation*/
+/*start images*/
+.space{
+    padding: 20px;
+}
+.slider{
+    background-image: url(../images/Home.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 700px;
+    width: 1170px;
+    margin: auto;
+}
+/*end images*/
+/*start paragraphs*/
+.paragraphs{
+    padding: 5px;
+    margin: 15px;
+    background-color: #f2f2f2;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+.paragraphs div{
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+}
+/*end paragraphs*/
+/*start article*/
+.article{
+    background-color: #f2f2f2; 
+    padding: 5px;
+    margin: 15px;
+}
+/*end article*/
+/*start projects*/
+.projects h2{
+    text-align: center;
+}
+.space{
+    padding: 20px;
+}
+.projectImage{
+    background-image: url(../images/Rocks%20project.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 700px;
+    width: 1170px;
+    margin: auto;
+}
+/*end projects*/
+/*start footer*/
+.footer{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    
+/*end footer*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
